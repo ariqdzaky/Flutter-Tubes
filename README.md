@@ -1,6 +1,11 @@
-# tubes
+# Tugas Besar Aplikasi Perangkat Bergerak
 
-A new Flutter project.
+Tugas Besar Kelompok 9, Aplikasi Explore SUMUT
+Anggota Kelompok: 
+1. Ariq Dzaky Muhammad
+2. Agnes Gabriella Panjaitan
+3. Davi Haidar Rahendra
+4. Reza Reynaldi Tarigan
 
 ## Getting Started
 
